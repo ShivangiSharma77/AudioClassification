@@ -1,1 +1,1 @@
-# JAVA_Internship
+# Java Tasks
